@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "is used for adding and multiplying an array of numbers",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayastec/barasingiza-calculator.git"
+  },
+  "author": "yasmine barasingiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayastec/barasingiza-calculator/issues"
+  },
+  "homepage": "https://github.com/bayastec/barasingiza-calculator#readme"
+}
