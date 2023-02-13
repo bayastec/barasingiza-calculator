@@ -14,3 +14,5 @@ function multiplication(num,theProduct){
     }
     return theProduct
 }
+module.exports=addition
+module.exports=multiplication

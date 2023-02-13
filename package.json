@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bayastec/barasingiza-calculator/issues"
   },
-  "homepage": "https://github.com/bayastec/barasingiza-calculator#readme"
+  "homepage": "https://github.com/bayastec/barasingiza-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
