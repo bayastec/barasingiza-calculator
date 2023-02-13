@@ -1,6 +1,6 @@
 {
-  "name": "calculator",
-  "version": "1.0.0",
+  "name": "calculatorofyasminebarasingiza",
+  "version": "1.2.1",
   "description": "is used for adding and multiplying an array of numbers",
   "main": "calculator.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/bayastec/barasingiza-calculator#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {}
 }
